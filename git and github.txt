@@ -5,4 +5,4 @@ git commit -m "update"
 for 1st time:
 git config --global user.email "ur mail"
 git config --global user.name "user name"
-do git commit -m "update" again
+do git commit -m "update" again continue process again
