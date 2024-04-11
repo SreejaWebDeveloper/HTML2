@@ -31,3 +31,5 @@ content
 
 Element contains open tag+content+closetag
 
+In VS code there are some shortcuts known as emmets
+

@@ -6,3 +6,11 @@ for 1st time :
 git config --global user.email "ur mail"
 git config --global user.name "user name"
 do git commit -m "update " again
+
+Goto git and Github.com create an account and repository 
+
+Login in Vs code local using github ,
+when u push it will open one login promt ,login there and give i agree authorization
+
+git remote add origin "link"
+git push -u origin main/master
