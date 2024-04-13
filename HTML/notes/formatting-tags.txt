@@ -1,0 +1,6 @@
+Formatting tags are used to format the text.
+
+br-break the line
+hr-horizontal line
+b-b is used to make the text bold
+strong - strongtag is used to make the text bold
