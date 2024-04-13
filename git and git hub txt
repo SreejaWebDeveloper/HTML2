@@ -7,6 +7,8 @@ git config --global user.email "ur mail"
 git config --global user.name "user name"
 do git commit -m "update " again
 
+
+if you make change later ....then again do git add . and git commit
 Goto git and Github.com create an account and repository 
 
 Login in Vs code local using github ,
