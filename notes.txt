@@ -33,3 +33,4 @@ Element contains open tag+content+closetag
 
 In VS code there are some shortcuts known as emmets
 
+Github:github is an online platform (website) used to deploy ,share and maintain code
