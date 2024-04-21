@@ -35,3 +35,11 @@ In VS code there are some shortcuts known as emmets
 
 Github:github is an online platform (website) used to deploy ,share and maintain code
 
+HTML
+----------------------------------------
+Tags vs elements
+Headings,paragraph,anchor,images
+inline vs block
+lists
+formatting Tags
+Symbols and emojis
